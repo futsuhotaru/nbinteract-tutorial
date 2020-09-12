@@ -1,11 +1,11 @@
 {
-  "base_url": "/user/futsuhotaru-nbinteract-tutorial-by8ini0b/",
+  "base_url": "/binder/jupyter/user/futsuhotaru-nbinteract-tutorial-yvlsfi70/",
   "hostname": "0.0.0.0",
   "notebook_dir": "/home/jovyan",
   "password": false,
   "pid": 1,
   "port": 8888,
   "secure": false,
-  "token": "rmodqVdeRk-asUpHhrxhYA",
-  "url": "http://0.0.0.0:8888/user/futsuhotaru-nbinteract-tutorial-by8ini0b/"
+  "token": "maWUCyZhSneCPQnA8u9Xcw",
+  "url": "http://0.0.0.0:8888/binder/jupyter/user/futsuhotaru-nbinteract-tutorial-yvlsfi70/"
 }
